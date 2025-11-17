@@ -1,0 +1,36 @@
+# Class
+CuteRoboFace	KEYWORD1
+
+# Core Methods
+begin	KEYWORD2
+update	KEYWORD2
+getBuffer	KEYWORD2
+
+# Expressions
+setHappy	KEYWORD2
+setSad	KEYWORD2
+setAngry	KEYWORD2
+setTired	KEYWORD2
+setSurprised	KEYWORD2
+setLove	KEYWORD2
+setBlinking	KEYWORD2
+setIdle	KEYWORD2
+
+# Food Animations
+eatPizza	KEYWORD2
+eatIceCream	KEYWORD2
+eatCookie	KEYWORD2
+stopEating	KEYWORD2
+
+# Reading Animation
+readBook	KEYWORD2
+stopReading	KEYWORD2
+
+# Actions
+wink	KEYWORD2
+look	KEYWORD2
+laugh	KEYWORD2
+confused	KEYWORD2
+cuteDance	KEYWORD2
+sleepyYawn	KEYWORD2
+heartEyes	KEYWORD2
